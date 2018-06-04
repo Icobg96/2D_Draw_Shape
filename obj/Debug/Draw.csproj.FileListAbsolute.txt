@@ -1,0 +1,11 @@
+C:\Users\ICO\Desktop\Project\trunk\CGProject\bin\Debug\Draw.exe
+C:\Users\ICO\Desktop\Project\trunk\CGProject\bin\Debug\Draw.pdb
+C:\Users\ICO\Desktop\Project\trunk\CGProject\obj\Debug\Draw.DoubleBufferedPanel.resources
+C:\Users\ICO\Desktop\Project\trunk\CGProject\obj\Debug\Draw.MainForm.resources
+C:\Users\ICO\Desktop\Project\trunk\CGProject\obj\Debug\Draw.csproj.GenerateResource.Cache
+C:\Users\ICO\Desktop\Project\trunk\CGProject\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Users\ICO\Desktop\Project\trunk\CGProject\obj\Debug\Draw.exe
+C:\Users\ICO\Desktop\Project\trunk\CGProject\obj\Debug\Draw.pdb
+C:\Users\ICO\Desktop\Project\trunk\CGProject\obj\Debug\Draw.csprojResolveAssemblyReference.cache
+C:\Users\ICO\Desktop\Project\trunk\CGProject\obj\Debug\Draw.src.GUI.Dialog.resources
+C:\Users\ICO\Desktop\Project\trunk\CGProject\obj\Debug\Draw.Properties.Resources.resources
